@@ -81,20 +81,9 @@ Here are some cool tech tidbits:
 <details>
 <summary>👉 Click to reveal the puzzle</summary>
 
-You are given a code-like pattern:
-
-1 = 3  
-2 = 3  
-3 = 5  
-4 = 4  
-5 = 4
+WAITING_FOR_PUZZLE
 
 
-❓ What does **6** equal?
-
-🧠 Hint:
-- Think like a **programmer**
-- Don’t calculate — **interpret**
 
 </details>
 
