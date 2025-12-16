@@ -78,28 +78,13 @@ Here are some cool tech tidbits:
 
 ### 🔐 Can You Crack This?
 
-<details>
-<summary>👉 Click to reveal the puzzle</summary>
-
-If x = 5, what is x * x?
-
+<!-- DAILY_PUZZLE_START -->
+Loading today's puzzle...
+<!-- DAILY_PUZZLE_END -->
 
 
-</details>
-
-<details>
 <summary>✅ Click to reveal the answer</summary>
 
-**6 = 3**
-
-Because the value represents the **number of letters** when the number is spelled:
-
-- ONE → 3  
-- TWO → 3  
-- THREE → 5  
-- FOUR → 4  
-- FIVE → 4  
-- SIX → 3  
 
 👏 Well done if you got it!
 </details>
