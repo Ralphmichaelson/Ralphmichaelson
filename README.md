@@ -81,7 +81,7 @@ Here are some cool tech tidbits:
 <details>
 <summary>👉 Click to reveal the puzzle</summary>
 
-WAITING_FOR_PUZZLE
+If x = 5, what is x * x?
 
 
 
