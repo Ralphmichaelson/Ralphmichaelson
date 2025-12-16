@@ -77,14 +77,15 @@ Here are some cool tech tidbits:
 </p>
 
 ### 🔐 Can You Crack This?
-
+<details>
+<summary>✅ Click to reveal the answer</summary>
 <!-- DAILY_PUZZLE_START -->
 Loading today's puzzle...
 <!-- DAILY_PUZZLE_END -->
+</details>
 
-
+<details>
 <summary>✅ Click to reveal the answer</summary>
-
 
 👏 Well done if you got it!
 </details>
