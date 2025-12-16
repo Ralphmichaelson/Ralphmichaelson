@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Hello%20👋%20I'm%20Michael%20Kanyugo&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0ABDE3&center=true&vCenter=true&width=800&lines=Tech+Student;React+%7C+JavaScript+%7C+Python;Turning+Ideas+Into+Reality+With+Code" /> </p> <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
-
 <h2 align="center">Tech Student | Frontend Developer | Machine learning and backend developing learner 🚀</h2>
 
 <p align="center">
