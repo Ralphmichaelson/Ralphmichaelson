@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Hello%20👋%20I'm%20Michael%20Kanyugo&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Tech Student | Frontend Developer | Machine learning and backend developing learner 🚀</h2>
+<h2 align="center" style="font-size:9000px; font-weight:600; color:#ffffff;">Tech Student💯💯</h2>
 
 <p align="center">
   Learning • Building • Growing every day
@@ -14,7 +14,6 @@
 ## 👋 About Me
 - 🎓 Tech student passionate about **software development & AI**
 - 💻 Strong foundation in **HTML, CSS & JavaScript**
-- 🤖 Exploring **Machine Learning** and **Backend development**
 - 🌱 Growth mindset — every day is a learning opportunity
 - 🔥 Consistency over perfection
 
@@ -24,30 +23,8 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🤖 Machine Learning Journey
-
-<p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="360" />
-</p
-
-
-- 📘 Learning **ML fundamentals**
-- 🐍 Working with **Python for data & models**
-- 📊 Understanding how machines learn patterns
-- 🧠 Curious about AI problem-solving
-
-
-<p align="center">
-  🚀 Every project is a new learning opportunity!
-</p>
-
-
----
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,nodejs,react,ts,mysql,docker,linux,flutter,git,github,vscode&theme=dark" />
+</p> 
 
 ## 💡 Fun Tech Facts
 
@@ -68,29 +45,6 @@ Here are some cool tech tidbits:
 
 
 
-
----
-
-## 🧩 Interactive Puzzle Zone 🧠🎮
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lHDSvmwnQGDUD6/giphy.gif" width="330" />
-</p>
-
-### 🔐 Can You Crack This?
-<details>
-<summary>👉 Click to reveal the Daily Brain Teaser</summary>
-> I’m tall when I’m young, and short when I’m old. What am I?
-
-</details>
-
-<details>
-<summary>✅ Click to reveal the answer</summary>
-A candle 🕯️
-
-👏 Well done if you got it!
-</details>
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ralphmichaelson&show_icons=true&theme=tokyonight&cache_seconds=86400" />
@@ -100,13 +54,11 @@ A candle 🕯️
   <img src="https://streak-stats.demolab.com?user=Ralphmichaelson&theme=tokyonight&cache_seconds=86400" />
 </p>
 
----
 
 ## 🧮 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphmichaelson&layout=compact&theme=tokyonight" />
 </p>
----
 
 ## 🌐 Portfolio & Social Links
 <p align="center">
