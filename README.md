@@ -36,12 +36,11 @@ Here are some cool tech tidbits:
 
 - 🦋 The first computer bug was a real moth stuck in a relay (1947).  
 - ⚡ JavaScript was created in just 10 days!   
-- 🤖 AI learns from data, not emotions.  
+- 🖱️ The mouse was invented in 1964 – it was made of wood with a single button.  
 - 🕹️ The first video game, "Tennis for Two," was made in 1958.  
 - 💾 The first 1GB hard drive in 1980 weighed over 500 pounds!   
-- 📡 The internet is older than the World Wide Web; it started in the 1960s.  
-- 🐍 Python was named after Monty Python, not the snake.
-- 🤓 More than 90% of the world’s currency exists only digitally. 
+- ⚡ AI can predict earthquakes – machine learning models analyze subtle patterns in seismic data for early warnings.
+- 🌍 Google Maps relies on AI for traffic predictions – every route calculation is powered by machine learning analyzing millions of data points
 
 
 
