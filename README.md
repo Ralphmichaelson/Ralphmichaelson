@@ -20,35 +20,7 @@
 > *“The beautiful thing about learning is that nobody can take it away from you.”* — **B.B. King**
 
 ---
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,nodejs,react,ts,mysql,docker,linux,flutter,git,github,vscode&theme=dark" />
-</p> 
-
-## 💡 Fun Tech Facts
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="350" />
-</p>
-
-Here are some cool tech tidbits:
-
-- 🦋 The first computer bug was a real moth stuck in a relay (1947).  
-- ⚡ JavaScript was created in just 10 days!   
-- 🖱️ The mouse was invented in 1964 – it was made of wood with a single button.  
-- 🕹️ The first video game, "Tennis for Two," was made in 1958.  
-- 💾 The first 1GB hard drive in 1980 weighed over 500 pounds!   
-- ⚡ AI can predict earthquakes – machine learning models analyze subtle patterns in seismic data for early warnings.
-- 🌍 Google Maps relies on AI for traffic predictions – every route calculation is powered by machine learning analyzing millions of data points
-
-
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ralphmichaelson&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ralphmichaelson&theme=tokyonight&cache_seconds=86400" />
 </p>
