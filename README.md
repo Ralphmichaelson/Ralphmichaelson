@@ -20,16 +20,6 @@
 > *“The beautiful thing about learning is that nobody can take it away from you.”* — **B.B. King**
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ralphmichaelson&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-
-## 🧮 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphmichaelson&layout=compact&theme=tokyonight" />
-</p>
 
 ## 🌐 Portfolio & Social Links
 <p align="center">
@@ -56,7 +46,6 @@
 ---
 
 ## 🌱 A Bit More About Me
-- ☕ Code + coffee = productivity
 - 🧩 I enjoy logic & puzzles
 - 🚀 Still learning, still building
 - 🌍 Tech can change lives
