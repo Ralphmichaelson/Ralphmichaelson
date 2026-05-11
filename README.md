@@ -23,7 +23,7 @@
 ## 👋 About Me
 
 ```typescript
-const ralph = {
+const Michael = {
   role      : "Upcoming Tech Student 📚",
   status    : "Coding daily & loving every error 💡",
   passion   : "Exploring beyond my field of knowledge",
@@ -32,22 +32,6 @@ const ralph = {
   goal      : "Build things that matter, learn things that surprise me",
 };
 ```
-
-## 📊 My GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ralphmichaelson&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphmichaelson&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Ralphmichaelson&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8" width="480"/>
-
-</div>
-
----
 
 ## 🌟 Quote That Drives Me
 
@@ -106,17 +90,6 @@ The bar bursts into flames. 🔥
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ralphmichaelson&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=a78bfa" width="100%"/>
-
-</div>
-
----
 
 ## 📡 Let's Connect
 
@@ -161,7 +134,7 @@ Whether you're a fellow student, a curious mind, or just passing through — rea
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>
-  Made with ❤️ and way too much coffee ☕ &nbsp;•&nbsp; <b>Ralphmichaelson</b> © 2025 <br/>
+  Made with ❤️ and way too much coffee ☕ &nbsp;•&nbsp; <b>Ralphmichaelson</b> © 2026 <br/>
   <i>Still learning. Still building. Still going.</i> 🌱
 </sub>
 
