@@ -5,8 +5,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hello%20I'm%20Michael%20Kanyugo%20&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Student%20%E2%80%A2%20Coder%20%E2%80%A2%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:3A506B&height=220&section=header&text=Hey,%20I'm%20Michael%20Kanyugo%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Curious%20Mind%20%E2%80%A2%20One%20Step%20at%20a%20Time&descAlignY=61&descSize=16&animation=fadeIn" width="100%"/>
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Hello+World!+I%27m+Ralph+%F0%9F%91%8B;Learning+to+code+every+single+day+%F0%9F%92%BB;Curiosity+is+my+superpower+%F0%9F%94%AD;Exploring+beyond+my+comfort+zone+%F0%9F%8C%8D;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -39,39 +38,7 @@ const Michael = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:2d1b69&height=120&text=%22The%20more%20I%20learn%2C%20the%20more%20I%20realize%20how%20much%20I%20don't%20know%22&fontSize=16&fontColor=e2d9f3&fontAlignY=42&desc=—%20Albert%20Einstein%20.&descSize=13&descAlignY=68&descColor=a78bfa" width="100%"/>
 
-<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
-</div>
-
----
-
-## 🎭 Fun Zone
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 😂 Dev Joke of the Day
-
-```
-A QA engineer walks into a bar.
-
-Orders 0 beers. ✓
-Orders 1 beer.  ✓
-Orders 99 beers. ✓
-Orders -1 beers. 💥
-Orders "beers".  💥
-Orders NULL beers. 💥
-
-First real customer walks in
-and asks where the bathroom is.
-
-The bar bursts into flames. 🔥
-```
 
 </td>
 <td align="center" width="50%">
