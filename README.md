@@ -30,30 +30,7 @@ const Michael = {
   interests : ["Software Dev", "AI & ML", "Design", "Science", "Philosophy"],
   goal      : "Build things that matter, learn things that surprise me",
 };
-```
-
-## 🌟 Quote That Drives Me
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:2d1b69&height=120&text=%22The%20more%20I%20learn%2C%20the%20more%20I%20realize%20how%20much%20I%20don't%20know%22&fontSize=16&fontColor=e2d9f3&fontAlignY=42&desc=—%20Albert%20Einstein%20.&descSize=13&descAlignY=68&descColor=a78bfa" width="100%"/>
-
-
-
-</td>
-<td align="center" width="50%">
-
-### 🎲 Random Dev Facts
-
-> 🖥️ The first computer "bug" was a **real bug** — a moth found in a Harvard Mark II computer in 1947.
-
-> ⌨️ A programmer types around **40 words per minute** but rewrites the same line an average of **7 times**.
-
-> 🌐 There are over **700 programming languages** in existence — and yet Stack Overflow is still needed for all of them.
-
-</td>
-</tr>
-</table>
+``>
 
 </div>
 
