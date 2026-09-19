@@ -14,6 +14,15 @@
 
 ---
 
+<table>
+<tr>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Someone busy coding on a laptop" />
+
+</td>
+<td>
+
 ### 👨‍💻 About Me
 
 ```gcode
@@ -23,6 +32,11 @@
 40  PASSIONS: Algorithms, Clean Code, & Open Source Exploration
 50  GOAL    : Building robust solutions while mastering programming fundamentals
 ```
+
+</td>
+</tr>
+</table>
+
 
 - 🎓 Currently pursuing a degree in **Computer Science**.
 - 💡 Passionate about exploring various programming languages and software architecture.
